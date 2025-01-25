@@ -11,7 +11,6 @@ Este é um **sistema de gerenciamento de pacientes** em Python, utilizando **Tki
 - [Como Usar](#como-usar)
 - [Exemplo de Execução](#exemplo-de-execução)
 - [Observações](#observações)
-- [Licença](#licença)
 
 ---
 
